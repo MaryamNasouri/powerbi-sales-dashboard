@@ -42,10 +42,9 @@ Based on the analysis of the 2015-2018 data, the following strategic insights we
 **Action:** A separate profitability analysis is recommended to optimize the Office Supplies product mix.
 
 **Files Included
-
 Sale.pbix — Power BI report file
-
-image — Dashboard screenshot
+data/Images/Sale.jpg — Dashboard screenshot
+data/train.csv -Dataset
 Sale.pdf - Exported PDF version of the dashboard
 README.md - Project documentation
 
