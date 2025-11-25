@@ -1,7 +1,8 @@
-Power BI Sales Performance Dashboard (2015–2018)
+## Power BI Sales Performance Dashboard (2015–2018)
 
 This repository contains an interactive Power BI dashboard designed to analyze sales performance between 2015 and 2018.
-The dashboard provides insights into:
+
+##The dashboard provides insights into:
 
 Total revenue growth
 
@@ -13,7 +14,7 @@ Regional performance
 
 Monthly/Yearly sales trends
 
-** Key Features
+## Key Features
 
 Total Sales, Total Orders, Total Customers KPIs
 
@@ -33,7 +34,7 @@ Region
 
 Fully interactive visuals with drill-down capability
 
-* Key Insights and Recommendations
+## Key Insights and Recommendations
 
 Based on the analysis of the 2015-2018 data, the following strategic insights were generated:
 **Regional Opportunity:** The West region consistently generates the highest sales volume; however, the Central region shows the fastest year-over-year growth trend. 
@@ -41,7 +42,7 @@ Based on the analysis of the 2015-2018 data, the following strategic insights we
 **Performance Gap:** The Office Supplies category, despite having a high volume of orders, lags significantly in Total Sales compared to Technology. This suggests a focus on lower-margin items. 
 **Action:** A separate profitability analysis is recommended to optimize the Office Supplies product mix.
 
-**Files Included
+## Files Included
 Sale.pbix — Power BI report file
 data/Images/Sale.jpg — Dashboard screenshot
 data/train.csv -Dataset
@@ -53,7 +54,7 @@ README.md - Project documentation
 https://github.com/MaryamNasouri/powerbi-sales-dashboard
 
 
-🛠 Tools Used
+## Tools Used
 
 Power BI Desktop
 
@@ -61,7 +62,7 @@ DAX for calculated columns (e.g., YearMonth)
 
 Data modeling and visualization best practices
 
-👤 Author
+## Author
 
 Maryam Nasourinia
 MSc Computational Sciences | Data Analyst | Machine Learning
