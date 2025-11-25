@@ -22,6 +22,14 @@ Region
 
 Fully interactive visuals with drill-down capability
 
+* Key Insights and Recommendations
+
+Based on the analysis of the 2015-2018 data, the following strategic insights were generated:
+**Regional Opportunity:** The West region consistently generates the highest sales volume; however, the Central region shows the fastest year-over-year growth trend. 
+**Recommendation:** Invest targeted marketing resources into the Central region to capitalize on its high growth potential.
+**Performance Gap:** The Office Supplies category, despite having a high volume of orders, lags significantly in Total Sales compared to Technology. This suggests a focus on lower-margin items. 
+**Action:** A separate profitability analysis is recommended to optimize the Office Supplies product mix.
+
 **Files Included
 
 SalesDashboard.pbix — Power BI report file
