@@ -1,6 +1,17 @@
-**Power BI Sales Performance Dashboard (2015–2018)
+Power BI Sales Performance Dashboard (2015–2018)
+
 This repository contains an interactive Power BI dashboard designed to analyze sales performance between 2015 and 2018.
-The dashboard provides insights into total sales, customer patterns, product performance, and regional sales distribution.
+The dashboard provides insights into:
+
+Total revenue growth
+
+Customer behavior
+
+Product category performance
+
+Regional performance
+
+Monthly/Yearly sales trends
 
 ** Key Features
 
@@ -32,9 +43,11 @@ Based on the analysis of the 2015-2018 data, the following strategic insights we
 
 **Files Included
 
-SalesDashboard.pbix — Power BI report file
+Sale.pbix — Power BI report file
 
-images/ — Dashboard screenshots
+image — Dashboard screenshot
+Sale.pdf - Exported PDF version of the dashboard
+README.md - Project documentation
 
 ** Dashboard Preview
 <img width="1363" height="749" alt="image" src="https://github.com/user-attachments/assets/b2e127c5-4745-4173-a47a-9a44fa87ea96" />
